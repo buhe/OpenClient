@@ -10,4 +10,4 @@
 ### Todo (Pro)
 - No need to sign up for an OpenAI account, no network magic required.
   - 5$ / monthly
-
+- Sync via icloud.
