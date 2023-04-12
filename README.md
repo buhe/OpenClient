@@ -1,4 +1,4 @@
-## GPT apple client Private
+## Open Client Private
 
 - Cross platform mac and iOS. 
 - Pass GFW default.
