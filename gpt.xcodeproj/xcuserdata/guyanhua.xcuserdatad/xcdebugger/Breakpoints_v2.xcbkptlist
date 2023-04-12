@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1F886CC7-6EF0-443C-8EC0-CD9B4EE12306"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03B2DDA8-DB9F-4F21-A195-894C47A4BDC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/model/AIChatModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "loadFromDB()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48B293E8-1C40-4CB0-AEA7-5CD4D1134E55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/model/AIChatModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "getChatResponse(id:prompt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1243737-4331-4014-A0DA-2F13BA7E15A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/model/AIChatModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "updateChat(id:contents:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC313F55-5DDE-4C6B-B25E-E74E8D3375BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/model/AIChatModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "loadFromDB()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EC313F55-5DDE-4C6B-B25E-E74E8D3375BE - eb3f67f7b67b279d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gpt.AIChatModel.loadFromDB() -&gt; ()"
+                  moduleName = "gpt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guyanhua/code/github/gpt/gpt/model/AIChatModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2544">
+               </Location>
+               <Location
+                  uuid = "EC313F55-5DDE-4C6B-B25E-E74E8D3375BE - eb3f67f7b67b279d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gpt.AIChatModel.loadFromDB() -&gt; ()"
+                  moduleName = "gpt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guyanhua/code/github/gpt/gpt/model/AIChatModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57B1B3C4-BD74-4513-8EF2-CB272D42935D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/model/AIChatModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "loadFromDB()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D97863D0-65FE-4A86-8360-5231BBC0F41F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/model/AIChatModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "loadFromDB()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C4D2BB6-CEBB-43CF-B585-13CD16D54DFD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/AIChatViewMac.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0C4D2BB6-CEBB-43CF-B585-13CD16D54DFD - f12170abd90a79b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI._ConditionalContent&lt;gpt.AIChatViewWithoutNav, SwiftUI.Text&gt;)&gt; in closure #2 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI._ConditionalContent&lt;gpt.AIChatViewWithoutNav, SwiftUI.Text&gt;)&gt;&gt; in gpt.AIChatViewMac.body.getter : some"
+                  moduleName = "gpt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guyanhua/code/github/gpt/gpt/AIChatViewMac.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "0C4D2BB6-CEBB-43CF-B585-13CD16D54DFD - f12170abd90a79b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI._ConditionalContent&lt;gpt.AIChatViewWithoutNav, SwiftUI.Text&gt;)&gt; in closure #2 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI._ConditionalContent&lt;gpt.AIChatViewWithoutNav, SwiftUI.Text&gt;)&gt;&gt; in gpt.AIChatViewMac.body.getter : some"
+                  moduleName = "gpt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guyanhua/code/github/gpt/gpt/AIChatViewMac.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "1636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD84FEBD-7E62-4A2E-AA4A-A1C5E4180742"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/AIChatViewWithoutNav.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "BD84FEBD-7E62-4A2E-AA4A-A1C5E4180742 - 88cecc4b1cea942c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;gpt.AIChat&gt;, Swift.String, SwiftUI.Section&lt;SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.contextMenu&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(menuItems: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;gpt.AIChat&gt;, Swift.String, SwiftUI.Section&lt;SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.contextMenu&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(menuItems: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in gpt.AIChatViewWithoutNav.body.getter : some"
+                  moduleName = "gpt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guyanhua/code/github/gpt/gpt/AIChatViewWithoutNav.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "BD84FEBD-7E62-4A2E-AA4A-A1C5E4180742 - dcae29345cbed029"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (gpt.AIChat) -&gt; SwiftUI.Section&lt;SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.contextMenu&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(menuItems: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;gpt.AIChat&gt;, Swift.String, SwiftUI.Section&lt;SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.contextMenu&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(menuItems: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;gpt.AIChat&gt;, Swift.String, SwiftUI.Section&lt;SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.contextMenu&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(menuItems: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in gpt.AIChatViewWithoutNav.body.getter : some"
+                  moduleName = "gpt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guyanhua/code/github/gpt/gpt/AIChatViewWithoutNav.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "544">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "153BD50C-9355-47A3-8A9F-F286B0461F46"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/prompt/PromptListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED1EEA04-F14E-4A58-9EA2-2D31048DAF06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/prompt/PromptListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FF6D120-B3C7-4B03-B432-ED9B22A047A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/prompt/PromptListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EEED410-D289-4352-A61B-820C5BD68FB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/prompt/PromptManagerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0EEED410-D289-4352-A61B-820C5BD68FB1 - 894a21ea2e56a082"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt; in closure #2 () -&gt; SwiftUI.VStack&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt;&gt; in gpt.PromptManagerView.body.getter : some"
+                  moduleName = "gpt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guyanhua/code/github/gpt/gpt/prompt/PromptManagerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  uuid = "0EEED410-D289-4352-A61B-820C5BD68FB1 - a8669b4c642a62e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (gpt.Prompt) -&gt; Swift.Bool in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt; in closure #2 () -&gt; SwiftUI.VStack&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt;&gt; in gpt.PromptManagerView.body.getter : some"
+                  moduleName = "gpt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guyanhua/code/github/gpt/gpt/prompt/PromptManagerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C46E127C-1708-43CF-989D-7E9965B8A6F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/prompt/PromptManagerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3CEE440-64A5-4F58-B277-2D869AF60CDA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/prompt/PromptManagerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BF15171-3BCB-4D47-98E8-7C965E61A6A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/prompt/PromptManagerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "292DA68B-D485-484E-9133-1D5820E65FFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/model/ChatGPT.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getChatGPTAnswer(prompts:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AD4CF1C-A642-4D02-B477-6DD594C2F0FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gpt/model/AIChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "getChatResponse(id:prompt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

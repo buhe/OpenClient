@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  gpt
+
+  Created by 顾艳华 on 2023/4/10.
+  
+*/
+"Ask me anything.." = "请提问...";
+"Set OpenAI Key" = "设置 OpenAI 密钥";
+"Prompt Manager" = "提示词管理";
+"New Chat" = "创建新聊天";
+"Quit" = "退出";
+"Prompt Name" = "提示词的名字";
+"Prompt Content" = "提示词的内容";
+"Please select a prompt or create." = "请选择或创建";
+"Ask again" = "重新提问";
+"Copy the issues" = "复制问题";
+"Copy the answer" = "复制答案";
+"Copy the issues and answers" = "复制问题和答案";
+"Copy the issues into the input" = "复制问题到输入框";
+"Delete the issue" = "删除这个问题";
+"Delete all" = "删除所有问题";
+"Last OpenAI Key" = "最后的 OpenAI 密钥";
+"Set OpenAI Key" = "设置 OpenAI 密钥";
+"Save" = "保存";
+"Create" = "创建";
+"Update" = "更新";
+

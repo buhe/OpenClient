@@ -1,0 +1,77 @@
+{
+  "pins" : [
+    {
+      "identity" : "hotkey",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/soffes/HotKey",
+      "state" : {
+        "branch" : "master",
+        "revision" : "c13662730cb5bc28de4a799854bbb018a90649bf"
+      }
+    },
+    {
+      "identity" : "markdowntext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shaps80/MarkdownText.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "82daa44352d2ac9e092252a8d98f482e4bfae837"
+      }
+    },
+    {
+      "identity" : "menubarextraaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/orchetect/MenuBarExtraAccess",
+      "state" : {
+        "revision" : "24c86e4de6664aefb8b29b47fd664cf833c49ad2",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "swift-cmark",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shaps80/swift-cmark.git",
+      "state" : {
+        "revision" : "476f7b4fcf12eba381b4aaed8987006fd8fcec9c",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "swift-markdown",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shaps80/swift-markdown",
+      "state" : {
+        "revision" : "83188dee2dbccfa70124c56055dd0b759d3e4ec3",
+        "version" : "0.3.0"
+      }
+    },
+    {
+      "identity" : "swiftbackports",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shaps80/SwiftBackports",
+      "state" : {
+        "revision" : "fafbeabf78b7e364abbbb7565cdfeee42af16211",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "swiftuibackports",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shaps80/SwiftUIBackports",
+      "state" : {
+        "revision" : "556d42f391b74059a354b81b8c8e19cc7cb576f4",
+        "version" : "1.15.1"
+      }
+    },
+    {
+      "identity" : "swiftyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftyJSON/SwiftyJSON",
+      "state" : {
+        "branch" : "master",
+        "revision" : "af1f7a2007d607fbe735c445f19080df4260fe8e"
+      }
+    }
+  ],
+  "version" : 2
+}
