@@ -56,7 +56,12 @@ class Chatbot {
                 } catch {
                     print(error)
                     DispatchQueue.main.async {
-                        completion("", 0)
+                        let e = error as? OpenAI.ChatError
+                        if e != nil {
+                            completion(e!.error.message, 0)
+                        } else {
+                            completion("", 0)
+                        }
                     }
                 }
             }
