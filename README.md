@@ -1,5 +1,4 @@
-## GPT apple client
-### 🚧 WIP
+## GPT apple client Private
 
 - Cross platform mac and iOS. 
 - Pass GFW default.
